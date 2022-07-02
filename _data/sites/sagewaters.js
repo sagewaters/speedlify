@@ -1,6 +1,6 @@
 module.exports = {
-	name: "Sage's Sites", // optional, falls back to object key
-	description: "Sage's Site",
+	name: "Sage", // optional, falls back to object key
+	description: "Sage",
 	options: {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
